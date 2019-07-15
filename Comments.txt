@@ -1,0 +1,6 @@
+; EuroScope sector file for VATFRANCE
+; Any corrections or amendments in this file should be directed to
+; atc@vatfrance.org or euroscope@vatfrance.org
+;
+; Copyright VATFRANCE 2014-{YEAR}. All rights reserved.
+; FR (FF EE MM BB RR) {VERSION} build date {BUILD}
