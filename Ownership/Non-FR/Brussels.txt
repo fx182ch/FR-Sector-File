@@ -1,11 +1,14 @@
-SECTOR:Brussels AC East:0:24500
-OWNER:EBUE:EBU
+; Brussels Control East
+SECTOR:Brussels ACC East:0:24500
+OWNER:BCE:BC:EURM
 BORDER: TO BE ADDED
 
-SECTOR:Brussels AC West:0:24500
-OWNER:EBUW:EBU
+; Brussels Control West
+SECTOR:Brussels ACC West:0:24500
+OWNER:BCW:BC:EURM
 BORDER: TO BE ADDED
 
-SECTOR:Brussels Maastricht (Upper):24500:66000
-OWNER:EBUM
+; Brussels Maastricht
+SECTOR:Brussels ACC Maastricht:24500:66000
+OWNER:BCM:EURM
 BORDER: TO BE ADDED

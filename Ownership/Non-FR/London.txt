@@ -1,7 +1,19 @@
-SECTOR:London Dover:11500:66000
-OWNER:LD:LS:LSC:L:EUI
-BORDER: TO BE ADDED
+; London Area Control Dover
+SECTOR:London Dover:13500:66000
+OWNER:LCD:LCS:LC:EURI
+BORDER:Paris_LondonDover:LondonDover_Dummy
 
-SECTOR:London Worthing:11500:6600
-OWNER:LSW:LS:LSC:L:EUI
-BORDER: TO BE ADDED
+; London Area Control South Part 1
+SECTOR:London South 1:13500:66000
+OWNER:LCS:LC:EURI
+BORDER:Brest_LondonSouth:LondonSouth_Dummy1
+
+; London Area Control South Part 2
+SECTOR:London South 2:13500:66000
+OWNER:LCS:LC:EURI
+BORDER:Paris_LondonSouth:LondonSouth_Dummy2
+
+; London Area Control West
+SECTOR:London West:13500:66000
+OWNER:LCW:LC:EURI
+BORDER:Brest_LondonWest:LondonWest_Dummy

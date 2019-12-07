@@ -1,3 +1,4 @@
+; Algier Control
 SECTOR:Algier ACC:0:66000
 OWNER:DA:AFRN
 BORDER: TO BE ADDED
