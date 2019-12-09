@@ -1,0 +1,8 @@
+As a general rule, the frequencies in use for VATSIM ATC positions match those published for the real world.
+
+However, sometimes the frequency published for VATSIM needs to be different. This is usually due one of the following:
+- A frequency conflict with another VATSIM ATC position
+- VOR frequencies used for ATIS (which are impossible to use with current pilot clients)
+- 8.33kHz-spaced frequencies, which can't be selected in FS/pilot client
+
+The following is a list of published FR VATSIM frequencies that differ from their real-world counterpart:
