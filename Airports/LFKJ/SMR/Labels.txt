@@ -1,0 +1,30 @@
+;Holding Points
+"A" N041.54.46.665 E008.47.40.199 smrStandText
+"B" N041.55.23.424 E008.48.02.107 smrStandText
+"H" N041.55.28.345 E008.48.04.663 smrStandText
+"C" N041.55.40.916 E008.48.13.802 smrStandText
+"D" N041.55.47.382 E008.48.17.799 smrStandText
+"E" N041.55.11.913 E008.48.04.293 smrStandText
+"F" N041.55.21.016 E008.48.09.922 smrStandText
+;Taxiways
+"T" N041.55.04.525 E008.47.45.126 smrStandText
+"D1" N041.55.24.459 E008.47.56.865 smrStandText
+"D2" N041.55.34.959 E008.48.03.529 smrStandText
+"G1" N041.55.24.039 E008.47.51.639 smrStandText
+"G1" N041.55.24.371 E008.47.43.149 smrStandText
+"G2" N041.55.23.147 E008.47.35.474 smrStandText
+"1" N041.55.03.519 E008.47.39.340 smrStandText
+"2" N041.55.05.362 E008.47.40.404 smrStandText
+"3" N041.55.07.126 E008.47.41.399 smrStandText
+"4" N041.55.09.156 E008.47.42.665 smrStandText
+"5" N041.55.11.094 E008.47.43.807 smrStandText
+"6" N041.55.13.222 E008.47.45.106 smrStandText
+"7" N041.55.15.335 E008.47.46.349 smrStandText
+"8" N041.55.17.490 E008.47.47.640 smrStandText
+"9" N041.55.19.701 E008.47.48.917 smrStandText
+"10" N041.55.21.025 E008.47.49.704 smrStandText
+"11" N041.55.20.449 E008.47.48.717 smrStandText
+;Aprons
+"Securite Civile" N041.55.15.601 E008.48.07.364 smrStandText
+"Commercial" N041.55.10.781 E008.47.40.931 smrStandText
+"Aviation Generale" N041.55.16.744 E008.47.34.467 smrStandText

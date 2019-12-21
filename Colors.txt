@@ -1,1 +1,9 @@
-; To be added as we progress.....
+;SMR Colors
+#define smrBase 5329233
+#define smrGrass 24576
+#define smrMarkings 13494510
+#define smrStands 0
+#define smrStandText 13494510
+
+;SMR Background Colors
+#define smrBackground 3932160 
