@@ -4,6 +4,7 @@
 #define smrMarkings 13494510
 #define smrStands 0
 #define smrStandText 13494510
+#define smrWater 5177344 
 
 ;SMR Background Colors
 #define smrBackground 3932160 
