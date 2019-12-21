@@ -1,3 +1,4 @@
+; Start Ajaccio - (LFKJ) - Labels
 ;Holding Points
 "A" N041.54.46.665 E008.47.40.199 smrStandText
 "B" N041.55.23.424 E008.48.02.107 smrStandText
@@ -28,3 +29,4 @@
 "Securite Civile" N041.55.15.601 E008.48.07.364 smrStandText
 "Commercial" N041.55.10.781 E008.47.40.931 smrStandText
 "Aviation Generale" N041.55.16.744 E008.47.34.467 smrStandText
+; End Ajaccio - (LFKJ) - Labels

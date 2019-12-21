@@ -1,3 +1,4 @@
+; Start Ajaccio - (LFKJ) - Freetext
 N041.34.02.442:E009.29.13.823:Airspace Bases:4000'
 N041.49.42.968:E009.06.20.261:Airspace Bases:10000'
 N041.39.27.228:E009.01.05.017:Airspace Bases:6600'
@@ -5,3 +6,4 @@ N041.34.02.442:E008.50.12.012:Airspace Bases:6000'
 N042.10.56.521:E008.52.51.998:Airspace Bases:11000'
 N042.04.26.492:E008.43.15.130:Airspace Bases:8500'
 N041.56.12.456:E008.34.35.948:Airspace Bases:4000'
+; End Ajaccio - (LFKJ) - Freetext

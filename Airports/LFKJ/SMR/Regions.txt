@@ -1,3 +1,4 @@
+; Start Ajaccio - (LFKJ) - Regions
 ;Black_Background
 REGIONNAME Ajaccio
 smrBackground N041.51.48.883 E008.43.28.904
@@ -958,3 +959,4 @@ N041.54.45.171 E008.47.43.144
 N041.54.45.091 E008.47.43.070
 N041.54.44.957 E008.47.43.454
 N041.55.44.022 E008.48.20.275
+; End Ajaccio - (LFKJ) - Regions
