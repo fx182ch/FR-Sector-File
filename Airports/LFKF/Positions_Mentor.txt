@@ -1,0 +1,2 @@
+LFKF_TWR:Figari Tower:199.998:KFTM:F:LFKF:TWR:-:-:::::
+LFKF_GND:Figari Ground:199.998:KFGM:F:LFKF:GND:-:-:::::

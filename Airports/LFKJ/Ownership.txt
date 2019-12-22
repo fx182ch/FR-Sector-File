@@ -1,3 +1,4 @@
+; Start Ajaccio - (LFKJ) - Sectors
 SECTOR:Only KJGND 1:0:0
 OWNER:KJA:KJT:KJG
 
@@ -28,3 +29,4 @@ ALTOWNER:Mentoring TWR/APP:KJAM:KJA:M
 GUEST:M:LFKJ:*
 BORDER:KJAPP:KJAPP_E:KJAPP_S
 ARRAPT:LFKJ
+; End Ajaccio - (LFKJ) - Sectors
