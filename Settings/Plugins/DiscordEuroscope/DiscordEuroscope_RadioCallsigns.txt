@@ -1,0 +1,23 @@
+LFUP_CTR France Control
+LFUP_M_CTR France Control Examiner
+LFFF_CTR Paris Control
+LFFF_E_CTR Paris Control
+LFFF_W_CTR Paris Control
+LFFF_U_CTR Paris Upper
+LFPG_APP Paris Approach
+LFPG_S_APP Paris Approach
+LFPG_DEP Paris Departure
+LFPG_TWR De Gaulle Tower
+LFPG_S_TWR De Gaulle Tower South
+LFPG_GND De Gaulle Ground
+LFPG_S_GND De Gaulle Ground South
+LFPG_DEL De Gaulle Delivery
+LFMM_U_CTR Marseille Upper
+LFMM_CTR Marseille Control
+LFMN_APP Nice Approach
+LFMN_TWR Nice Tower
+LFMN_GND Nice Ground
+LFMN_DEL Nice Delivery
+EURW_FSS Eurocontrol West
+EURM_CTR Maastricht Radar
+EURN_FSS Eurocontrol North

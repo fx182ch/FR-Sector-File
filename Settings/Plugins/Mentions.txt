@@ -1,0 +1,27 @@
+Legal mentions for all plugins used
+
+Audio For Vatsim (AFV)
+- Owned and developped by Vatsim Audio team
+
+Discord Euroscope
+- Thank you to @Kirollos for this plugin
+- Project link: https://github.com/Kirollos/DiscordEuroscope
+
+
+Ground Plugin & TopSky
+- Special thanks to Juha Holopainen and the Vatsim Scandinavia division
+
+
+Mode S plugin
+- Thank you to Pierre Ferran and Oliver Gruetzmann
+- Project link: https://github.com/ogruetzmann/ModeS
+
+
+RDF
+- Thank you to @chembergj
+- Project link: https://github.com/chembergj/RDF
+
+vSMR
+- Thank you to Pierre Ferran
+
+
