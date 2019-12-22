@@ -1,0 +1,11 @@
+; Start Bastia - (LFKB) - Freetext
+N043.05.54.854:E008.45.05.545:Airspace Bases:2000'
+N043.10.59.341:E009.26.56.236:Airspace Bases:3000'
+N042.37.56.794:E009.20.10.923:Airspace Bases:7000'
+N042.48.19.300:E009.15.29.455:Airspace Bases:6200'
+N042.49.26.964:E009.01.13.793:Airspace Bases:4000'
+N042.24.18.063:E008.34.46.316:Airspace Bases:7600'
+N042.27.00.456:E009.04.36.450:Airspace Bases:11000'
+N042.23.03.633:E009.28.26.306:Airspace Bases:7800'
+N042.38.10.327:E009.32.22.739:Airspace Bases:5000'
+; End Bastia - (LFKB) - Freetext
