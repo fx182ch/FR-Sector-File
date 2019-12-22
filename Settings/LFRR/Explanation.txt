@@ -1,0 +1,5 @@
+Each setting file gets put in this folder.
+
+FIR Direct settings goes into Settings/LFRR
+Airport Direct settings goes into Settings/LFRR/<ICAO>
+*If the folder does not exist make the folder!
