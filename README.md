@@ -15,7 +15,16 @@
 ## To Do lists
 
 ### @chrissKLO To Do list
+ 
+ Sector Work
+ - Adapt every sector to the Mentor ALTERNATE option
+ - Adapt every sector to be observed via ALTERNATE option
+ - Simplify every sector definition
+ - Optimise the sector file to reduce the risk of Eurscope crashing
 
+ Settings Work
+ - Research FIR specific symbology (Radar colors etc..)
+ - ASR Display Work
 
 
 ### @FrenchGap To Do list
