@@ -1,0 +1,39 @@
+; Start Bastia - (LFKB) - Freetext
+; Holding Points
+"G" N042.32.30.375 E009.29.13.767 smrStandText
+"M" N042.33.00.404 E009.29.02.085 smrStandText
+"E" N042.33.34.226 E009.28.47.992 smrStandText
+; Taxiways
+"A" N042.32.50.068 E009.29.00.515 smrStandText
+"C" N042.32.58.675 E009.28.51.314 smrStandText
+"D" N042.33.00.851 E009.28.52.353 smrStandText
+"N1" N042.33.10.655 E009.28.47.779 smrStandText
+; Stands
+"A1" N042.32.42.836 E009.28.58.733 smrStandText
+"A2" N042.32.44.640 E009.28.58.100 smrStandText
+"A3" N042.32.46.698 E009.28.57.340 smrStandText
+"A4" N042.32.48.502 E009.28.56.770 smrStandText
+"A5" N042.32.50.054 E009.28.56.169 smrStandText
+"A6" N042.32.51.827 E009.28.55.187 smrStandText
+"A7" N042.32.52.776 E009.28.54.871 smrStandText
+"A8" N042.32.53.853 E009.28.54.333 smrStandText
+"A9" N042.32.54.771 E009.28.53.921 smrStandText
+"A10" N042.32.56.385 E009.28.53.193 smrStandText
+"D11" N042.33.02.632 E009.28.49.590 smrStandText
+"D9" N042.33.01.711 E009.28.50.186 smrStandText
+"D10" N042.33.01.283 E009.28.49.616 smrStandText
+"B14" N042.32.57.393 E009.28.46.024 smrStandText
+"B16" N042.32.57.367 E009.28.45.000 smrStandText
+"B16" N042.32.57.341 E009.28.43.820 smrStandText
+"C36" N042.33.00.829 E009.28.41.460 smrStandText
+"C35" N042.33.00.842 E009.28.42.380 smrStandText
+"C34" N042.33.00.868 E009.28.43.314 smrStandText
+"C33" N042.33.00.894 E009.28.44.572 smrStandText
+"C23" N042.32.59.844 E009.28.45.298 smrStandText
+"C24" N042.32.59.792 E009.28.44.312 smrStandText
+"C25" N042.32.59.701 E009.28.43.236 smrStandText
+"C26" N042.32.59.701 E009.28.41.836 smrStandText
+: Aprons
+"Commercial" N042.32.47.854 E009.28.53.421 smrStandText
+"Aviation Generale" N042.33.03.003 E009.28.43.296 smrStandText
+; End Bastia - (LFKB) - Freetext
