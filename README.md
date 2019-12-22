@@ -30,18 +30,18 @@
 ### @FrenchGap To Do list
  
  Plugin work
- - Adapt GRPlugin for LFPG and beta test
- - Adapt GRPlugin for LFMN and beta test
- - Adapt GRPlugin for LFPO and beta test
- - Adapt TopSky to LFXX
-   - Include restriction areas (MIL, etc.)
-   - Include maps and area specific restrictions, QNH calc etc
+ - [x] Adapt GRPlugin for LFPG and beta test
+ - [ ] Adapt GRPlugin for LFMN and beta test
+ - [ ] Adapt GRPlugin for LFPO and beta test
+ - [ ] Adapt TopSky to LFXX
+   - [ ] Include restriction areas (MIL, etc.)
+   - [ ] Include maps and area specific restrictions, QNH calc etc
  
  Sector file and AIRAC work
- - redo LFPO SMR ground radar
- - do LFMD SMR ground radar
- - do LFPB SMR ground radar
- - do LFOB SMR ground radar
- - add missing stands for LFPG
- - add missing stands for LFPO
- - add missing stands for LFMN
+ - [ ] redo LFPO SMR ground radar
+ - [ ] do LFMD SMR ground radar
+ - [ ] do LFPB SMR ground radar
+ - [ ] do LFOB SMR ground radar
+ - [ ] add missing stands for LFPG
+ - [ ] add missing stands for LFPO
+ - [ ] add missing stands for LFMN
