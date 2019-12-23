@@ -1,2 +1,2 @@
-LFKC_TWR:Calvi Tower:199.998:KCTM:C:LFKC:TWR:-:-:::
-LFKC_GND:Calvi Ground:199.998:KCGM:C:LFKC:GND:-:-:::
+LFMD_TWR:Cannes Tower:199.998:MDTM:D:LFMD:TWR:-:-::::
+LFMD_GND:Cannes Ground:199.998:MDGM:D:LFMD:GND:-:-::::
