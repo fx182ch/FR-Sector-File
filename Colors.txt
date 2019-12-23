@@ -1,10 +1,14 @@
 ;SMR Colors
 #define smrBase 5329233
+#define smrBlack 0
 #define smrGrass 24576
 #define smrMarkings 13494510
 #define smrStands 0
 #define smrStandText 13494510
 #define smrWater 5177344 
+#define smrHolding 8323072
+#define smrBuildings 5987163
 
 ;SMR Background Colors
 #define smrBackground 3932160 
+#define smrBackgroundGrey 2960940
