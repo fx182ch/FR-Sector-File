@@ -1,0 +1,5 @@
+LFMN_APP:Nice Approach:199.998:MNAM:N:LFMN:APP:-:-:::
+LFMN_DEP:Nice Departures:199.998:MNDM:N:LFMN:DEP:-:-:::
+LFMN_TWR:Nice Tower:199.998:MNTM:N:LFMN:TWR:-:-:::
+LFMN_GND:Nice Ground:199.998:MNGM:N:LFMN:GND:-:-:::
+LFMN_DEL:Nice Delivery:199.998:MNCLM:N:LFMN:DEL:-:-:::

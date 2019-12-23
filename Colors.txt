@@ -8,6 +8,12 @@
 #define smrWater 5177344 
 #define smrHolding 8323072
 #define smrBuildings 5987163
+#define avisoTaxiway 5987929
+#define avisoApron 8355978
+#define avisoBArea 9671574
+#define avisoBuilding 4604985
+#define avisoRunway 4013373
+#define avisoGrass 3100928
 
 ;SMR Background Colors
 #define smrBackground 3932160 
