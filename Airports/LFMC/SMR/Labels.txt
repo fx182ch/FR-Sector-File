@@ -1,0 +1,9 @@
+; Start Le Luc - (LFMC) - Labels
+"A" N043.23.02.240 E006.22.46.495 smrStandText
+"B" N043.23.02.365 E006.22.53.441 smrStandText
+"C" N043.23.02.491 E006.22.59.048 smrStandText
+"D" N043.23.02.449 E006.23.08.631 smrStandText
+"E" N043.23.00.399 E006.23.14.866 smrStandText
+"F" N043.22.56.214 E006.23.21.896 smrStandText
+"G" N043.22.53.578 E006.23.25.913 smrStandText
+; End Le Luc - (LFMC) - Labels
