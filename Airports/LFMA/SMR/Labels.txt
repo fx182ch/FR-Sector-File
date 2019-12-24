@@ -1,22 +1,40 @@
-; Start Calvi - (LFKC) - Labels
-; Holding Point
-"S2" N042.31.14.085 E008.47.31.600 smrStandText
-"S1" N042.31.18.359 E008.47.31.537 smrStandText
-"A" N042.31.21.524 E008.47.31.537 smrStandText
-"B" N042.31.28.553 E008.47.31.505 smrStandText
+; Start Aix - (LFMA) - Labels
+; Taxiways
+"C" N043.30.23.697 E005.21.55.162 smrStandText
+"B" N043.30.25.530 E005.21.58.889 smrStandText
+"D" N043.30.09.361 E005.22.09.034 smrStandText
+"A" N043.30.11.446 E005.22.12.939 smrStandText
 ; Stands
-"P8" N042.31.34.464 E008.47.29.482 smrStandText
-"P7" N042.31.34.432 E008.47.26.728 smrStandText
-"P6" N042.31.33.007 E008.47.26.791 smrStandText
-"P5" N042.31.31.583 E008.47.26.855 smrStandText
-"P4" N042.31.30.411 E008.47.26.886 smrStandText
-"P3" N042.31.29.145 E008.47.26.886 smrStandText
-"P2B" N042.31.26.739 E008.47.25.018 smrStandText
-"P2" N042.31.26.106 E008.47.26.221 smrStandText
-"P1" N042.31.26.074 E008.47.29.039 smrStandText
-"P2A" N042.31.26.106 E008.47.26.760 smrStandText
-; Aprons
-"Commercial" N042.31.34.305 E008.47.24.892 smrStandText
-"Aviation Generale" N042.31.20.882 E008.47.27.678 smrStandText
-"Aviation Affaire" N042.31.25.061 E008.47.31.033 smrStandText
-; End Calvi - (LFKC) - Labels
+"Aire-Novembre Ouest" N043.30.20.852 E005.21.49.687 smrStandText
+"TWR" N043.30.14.700 E005.21.57.384 smrStandText
+"Aire-Sierra Ouest" N043.30.07.762 E005.22.02.736 smrStandText
+"Aire-Sierra en herbe" N043.30.06.921 E005.22.21.561 smrStandText
+"Aire-Sierra Est" N043.30.10.991 E005.22.21.057 smrStandText
+"Aire-Novembre Est" N043.30.16.769 E005.22.11.030 smrStandText
+"ACB" N043.30.11.995 E005.22.19.851 smrStandText
+"2N" N043.30.17.772 E005.22.13.476 smrStandText
+"1N" N043.30.16.983 E005.22.14.233 smrStandText
+"6N" N043.30.15.646 E005.22.12.189 smrStandText
+"9N" N043.30.15.926 E005.22.12.741 smrStandText
+"7N" N043.30.14.992 E005.22.14.011 smrStandText
+"8N" N043.30.15.377 E005.22.14.883 smrStandText
+"10N" N043.30.16.244 E005.22.14.319 smrStandText
+"3N" N043.30.13.365 E005.22.14.634 smrStandText
+"4N" N043.30.13.729 E005.22.15.396 smrStandText
+"5N" N043.30.14.023 E005.22.15.916 smrStandText
+"S2" N043.30.12.555 E005.22.16.967 smrStandText
+"S3" N043.30.12.175 E005.22.17.268 smrStandText
+"S4" N043.30.11.439 E005.22.18.212 smrStandText
+"S5" N043.30.11.066 E005.22.18.430 smrStandText
+"S6" N043.30.10.693 E005.22.18.769 smrStandText
+"S7" N043.30.10.306 E005.22.19.116 smrStandText
+"S8" N043.30.09.297 E005.22.18.274 smrStandText
+"S9" N043.30.09.668 E005.22.17.909 smrStandText
+"S10" N043.30.10.045 E005.22.17.581 smrStandText
+"S11" N043.30.10.428 E005.22.17.202 smrStandText
+"S12" N043.30.10.779 E005.22.16.837 smrStandText
+"S13" N043.30.11.150 E005.22.16.476 smrStandText
+"S14" N043.30.11.533 E005.22.16.101 smrStandText
+"S15" N043.30.11.917 E005.22.15.744 smrStandText
+"S16" N043.30.12.288 E005.22.15.357 smrStandText
+; End Aix - (LFMA) - Labels
