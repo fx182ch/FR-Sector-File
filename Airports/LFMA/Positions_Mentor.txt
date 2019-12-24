@@ -1,0 +1,2 @@
+LFMA_TWR:Aix Tower:199.998:MATM:A:LFMA:TWR:-:-::::
+LFMA_GND:Aix Ground:199.998:MAGM:A:LFMA:GND:-:-::::
