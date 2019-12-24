@@ -1,0 +1,21 @@
+; Start Avignon - (LFMV) - Labels
+; Taxiways
+"F" N043.54.51.200 E004.53.58.900 smrStandText
+"F" N043.54.50.700 E004.53.55.200 smrStandText
+"A" N043.54.06.000 E004.54.07.300 smrStandText
+"B" N043.54.17.500 E004.54.04.200 smrStandText
+"C" N043.54.25.300 E004.54.02.100 smrStandText
+"G" N043.54.26.700 E004.53.59.800 smrStandText
+"E" N043.54.35.100 E004.53.57.500 smrStandText
+"D" N043.54.40.500 E004.54.10.800 smrStandText
+; Stands
+"1" N043.54.24.400 E004.53.50.200 smrStandText
+"G1" N043.54.27.000 E004.53.52.900 smrStandText
+"2" N043.54.22.600 E004.53.54.400 smrStandText
+"3" N043.54.27.300 E004.53.54.800 smrStandText
+"4" N043.54.23.700 E004.53.54.000 smrStandText
+"5" N043.54.17.600 E004.53.56.700 smrStandText
+"6" N043.54.16.800 E004.53.56.900 smrStandText
+"7" N043.54.44.400 E004.54.16.200 smrStandText
+"8" N043.54.42.800 E004.54.17.800 smrStandText
+; End Avignon - (LFMV) - Labels

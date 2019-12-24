@@ -1,0 +1,2 @@
+LFMV_TWR:Avignon Tower:199.998:MVTM:V:LFMV:TWR:-:-::::
+LFMV_GND:Avignon Ground:199.998:MVGM:V:LFMV:GND:-:-::::
