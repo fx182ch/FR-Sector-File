@@ -1,0 +1,2 @@
+LFMY_APP:Salon Approach:199.998:MYAM:Y:LFMY:APP:-:-::::
+LFMY_TWR:Salon Tower:199.998:MYTM:Y:LFMY:TWR:-:-::::
