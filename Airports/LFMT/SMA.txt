@@ -1,0 +1,14 @@
+; Start Montpellier - (LFMT) - Freetext
+N044.29.25.799:E003.10.44.800:Airspace Bases:7200'
+N044.37.55.800:E003.30.44.798:Airspace Bases:7900'
+N043.55.25.800:E002.58.14.799:Airspace Bases:5000'
+N043.39.32.999:E002.51.29.000:Airspace Bases:6200'
+N042.48.09.998:E002.26.37.000:Airspace Bases:6000'
+N044.09.55.848:E003.31.59.799:Airspace Bases:7700'
+N043.05.17.999:E002.47.44.000:Airspace Bases:4000'
+N043.47.24.999:E003.43.59.000:Airspace Bases:4000'
+N042.57.09.999:E002.27.13.999:Airspace Bases:4700'
+N043.05.55.000:E003.54.37.000:Airspace Bases:2000'
+N043.32.24.999:E003.27.37.000:Airspace Bases:3000'
+N042.38.10.000:E002.10.07.000:Airspace Bases:12500'
+; End Montpellier - (LFMT) - Freetext
