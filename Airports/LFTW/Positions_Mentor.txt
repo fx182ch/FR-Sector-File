@@ -1,0 +1,2 @@
+LFTW_TWR:Garons Tower:199.998:TWTM:W:LFTW:TWR:-:-::::
+LFTW_GND:Garons Ground:199.998:TWGM:W:LFTW:GND:-:-::::
