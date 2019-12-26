@@ -1,8 +1,8 @@
-; Start Villafranche - (LFHV)- (LFHV) - Sectors
-SECTOR:Only HVVWR 1:0:0
+; Start Villafranche - (LFHV) - Sectors
+SECTOR:Only HVTWR 1:0:0
 OWNER:LLA:HVV
 
-SECTOR:Only HVVWR 2:0:0
+SECTOR:Only HVTWR 2:0:0
 OWNER:LLA:M:MM:O
 
 SECTOR:HVVWR:0:3500
@@ -14,4 +14,4 @@ GUEST:M:LFHV:*
 BORDER:HVTWR
 DEPAPT:LFHV
 ARRAPT:LFHV
-; End Villafranche - (LFHV)- (LFHV) - Sectors
+; End Villafranche - (LFHV) - Sectors
