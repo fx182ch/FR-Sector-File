@@ -1,3 +1,1 @@
-Cannes Mandelieu
-N043.32.47.000 E006.57.15.000
-118.620
+LFMD 118.620 N043.32.47.000 E006.57.15.000 E ; Cannes Mandelieu

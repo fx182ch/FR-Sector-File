@@ -1,3 +1,1 @@
-Marseille Provence
-N043.26.12.000 E005.12.54.000
-119.500
+LFML 119.500 N043.26.12.000 E005.12.54.000 E ; Marseille Provence

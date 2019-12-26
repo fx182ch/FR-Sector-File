@@ -1,3 +1,1 @@
-Perpignan Rivesaltes
-N042.44.27.000 E002.52.11.000
-118.300
+LFMP 118.300 N042.44.27.000 E002.52.11.000 E ; Perpignan Rivesaltes

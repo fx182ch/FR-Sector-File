@@ -1,3 +1,1 @@
-Hyeres Le Palyvestre
-N043.05.50.000 E006.08.46.000
-121.000
+LFTH 121.000 N043.05.50.000 E006.08.46.000 E ; Hyeres Le Palyvestre
