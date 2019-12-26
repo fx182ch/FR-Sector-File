@@ -1,0 +1,78 @@
+{
+  "sct_header": [
+    "Comments.txt"
+  ],
+  "sct_colour_defs": [
+    "Colors.txt"
+  ],
+  "sct_info": [
+    "Info.txt"
+  ],
+  "sct_airport": [
+    "Airports/LFMN/Basic.txt"
+  ],
+  "sct_runway": [
+    "Airports/LFMN/Runway.txt"
+  ],
+  "sct_vor": [
+    "Navaids/VOR_non-FR.txt"
+  ],
+   "sct_ndb": [
+    "Navaids/NDB_All.txt"
+  ],
+  "sct_fixes": [
+    "Navaids/Fixes_france.txt"
+  ],
+  "sct_geo": [
+    "Misc/GEO_countryborders.txt"
+  ],
+  "sct_low_airway": [
+    "Airways/Conventional/Lower/A1.txt"
+  ],
+  "sct_high_airway": [
+    "Airways/Conventional/Upper/UB37.txt"
+  ],
+  "sct_artcc": [
+    "Sectors/Static/LFMM/Marseille.txt"
+  ],
+  "sct_artcc_high": [
+    "Sectors/Static/LFMM/Marseille.txt"
+  ],
+  "sct_artcc_low": [
+    "Sectors/Static/LFMM/Marseille.txt"
+  ],
+  "sct_sid": [
+    "Airports/LFMN/SID_SCT.txt"
+  ],
+  "sct_star": [
+    "Airports/LFMN/STAR_SCT.txt"
+  ],
+  "sct_labels": [
+    "Airports/LFMN/SMR/Labels.txt"
+  ], 
+  "sct_regions": [
+    "Airports/LFMN/SMR/Regions.txt",
+    "Airports/LFMN/Regions.txt"
+  ],
+  "ese_header": [
+    "Comments.txt"
+  ],
+  "ese_preamble": [
+    "Comments.txt"
+  ],
+  "positions": [
+    "Airports/LFMN/Positions.txt",
+    "Airports/LFMN/Positions_Mentor.txt"
+  ],     
+  "freetext": [
+    "Airports/LFMN/SMA.txt"
+  ],
+  "sidsstars": [
+    "Airports/LFMN/SID.txt",
+    "Airports/LFMN/STAR.txt"
+  ],
+  "airspace": [
+    "Airports/LFMN/Sector.txt",
+    "Airports/LFMN/Ownership.txt"
+  ]
+}

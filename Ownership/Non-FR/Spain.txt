@@ -3,13 +3,13 @@ SECTOR:Madrid ACC West:24500:66000
 OWNER:MRW:MR:EURW
 BORDER:Brest_MadridWest:MadridWest_Dummy
 
-; Madrid Radar East Part 1
-SECTOR:Madrid ACC East 1:24500:66000
+; Madrid Radar East West
+SECTOR:Madrid ACC East West:24500:66000
 OWNER:MRE:MR:EURW
 BORDER:Brest_MadridEast:MadridEast_Dummy
 
-; Madrid Radar East Part 2
-SECTOR:Madrid ACC East 2:24500:66000
+; Madrid Radar East East
+SECTOR:Madrid ACC East:24500:66000
 OWNER:MRE:MR:EURW
 BORDER:Bordeux_Madrid:MadridEast_Dummy2
 

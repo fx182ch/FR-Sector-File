@@ -1,0 +1,5 @@
+LFMN/04R/RUBI6A           MN044          MN044          MN048          MN048          
+                          MN048          MN048          MN236          MN236          
+                          MN236          MN236          RESBO          RESBO          
+                          RESBO          RESBO          STP            STP            
+                          STP            STP            RUBIT          RUBIT 
