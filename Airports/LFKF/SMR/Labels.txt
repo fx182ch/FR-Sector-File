@@ -1,4 +1,4 @@
-; Start Figari - (LFKJ) - Labels
+; Start Figari - (LFKF) - Labels
 ; Holding Point
 "C" N041.30.05.824 E009.05.52.088 smrStandText
 ; Stands
@@ -30,4 +30,4 @@
 "H2" N041.30.07.089 E009.05.59.514 smrStandText
 "H3" N041.30.07.109 E009.06.00.330 smrStandText
 "Helicopter" N041.30.07.396 E009.05.58.255 smrStandText
-; End Figari - (LFKJ) - Labels
+; End Figari - (LFKF) - Labels
