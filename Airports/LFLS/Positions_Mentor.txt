@@ -1,0 +1,2 @@
+LFLY_TWR:Bron Tower:199.998:LYTM:Y:LFLY:TWR:-:-::::
+LFLY_GND:Bron Ground:199.998:LYGM:Y:LFLY:GND:-:-::::
