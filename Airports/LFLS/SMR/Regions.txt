@@ -1,4 +1,4 @@
-; Start Grenoble - Regions
+; Start Grenoble - (LFLS) - Regions
 ;Background
 REGIONNAME Grenoble
 smrBackgroundGrey N045.18.46.526 E005.26.19.475
@@ -311,4 +311,4 @@ smrBuildings N045.22.01.173 E005.19.45.588
 N045.22.01.153 E005.19.48.557
 N045.22.01.881 E005.19.48.487
 N045.22.01.852 E005.19.45.588
-; End Grenoble - Regions
+; End Grenoble - (LFLS) - Regions

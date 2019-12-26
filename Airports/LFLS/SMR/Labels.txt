@@ -1,4 +1,4 @@
-; Start Grenoble - Labels
+; Start Grenoble - (LFLS) - Labels
 "S1" N045.21.45.900 E005.18.36.600 smrStandText
 "S1" N045.21.44.300 E005.18.36.600 smrStandText
 "S5" N045.21.44.200 E005.20.54.900 smrStandText
@@ -26,4 +26,4 @@
 "5" N045.21.26.100 E005.20.04.900 smrStandText
 "6" N045.21.25.700 E005.20.03.200 smrStandText
 "7" N045.21.25.300 E005.20.01.500 smrStandText
-; End Grenoble - Labels
+; End Grenoble - (LFLS) - Labels
