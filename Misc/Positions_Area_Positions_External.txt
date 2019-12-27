@@ -36,7 +36,7 @@ EBBR_APP:Brussels Arrival:118.250:BRA:C:EBBR:APP:::
 ELLX_APP:Luxembourg Approach:118.900:LXA:C:ELLX:APP:::
 
 ;Italy
-LIMM_N_CTR:Milano Radar:127.450:MR:I:LIMM:CTR:::
+LIMM_N_CTR:Milano Radar:127.450:IMR:I:LIMM:CTR:::
 LIMM_S_CTR:Milano Radar:130.720:MRS:I:LIMM:CTR:::
 LIMM_I_CTR:Milano Information:124.920:MRV:I:LIMM:CTR:::
 LIMM_M_CTR:Milano Military:129.820:MRM:I:LIMM:CTR:::

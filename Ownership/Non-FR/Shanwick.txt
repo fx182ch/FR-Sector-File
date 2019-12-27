@@ -2,4 +2,4 @@
 ; Can be both owned by Shanwick and Gander
 SECTOR:Shanwick Oceanic:13500:66000
 OWNER:GXO:CXO
-BORDER:Brest_Shanwick:Shanwick_Dummy
+BORDER:LFRR_EGGX:EGGX

@@ -1,34 +1,39 @@
 ; Madrid Radar West
 SECTOR:Madrid ACC West:24500:66000
 OWNER:MRW:MR:EURW
-BORDER:Brest_MadridWest:MadridWest_Dummy
+BORDER:LFRR_LECMW:LECM_W
 
 ; Madrid Radar East West
 SECTOR:Madrid ACC East West:24500:66000
 OWNER:MRE:MR:EURW
-BORDER:Brest_MadridEast:MadridEast_Dummy
+BORDER:LFRR_LECME:LECM_E
 
 ; Madrid Radar East East
 SECTOR:Madrid ACC East:24500:66000
 OWNER:MRE:MR:EURW
-BORDER:Bordeux_Madrid:MadridEast_Dummy2
+BORDER:LFBB_LECM:LECM_E2
 
 ; Barcelona Radar North
 SECTOR:Barcelona ACC North:24500:66000
 OWNER:BRN:BR:EURW
-BORDER:Bordeux_Barcelona:BarcelonaNorth_Dummy
+BORDER:LFBB_LECB:LECB_N
+
+; Barcelona Radar North 2
+SECTOR:Barcelona ACC North:0:66000
+OWNER:BRN:BR:EURW
+BORDER:LFMM_LECBN:LECB_N2
 
 ; Barcelona Radar South
 SECTOR:Barcelona ACC South:24500:66000
 OWNER:BRS:BR:EURW
-BORDER:Marseille_BarcelonaSouth:BarcelonaSouth_Dummy
+BORDER:LFMM_LECBS:LECB_S
 
 ; Palma Area Control (TMA)
 SECTOR:Palma ACC:0:24500
 OWNER:PAC:BRS:BR:EURW
-BORDER:Marseille_Palma:Palma_Dummy
+BORDER:LFMM_LEPA:LEPA
 
 ; Barcelona Approach West (TMA)
 SECTOR:Barcelona Approach East:0:24500
 OWNER:BLAW:BLA:BRN:BR
-BORDER:Bordeux_BarcelonaTMA:BarcelonaTMA_Dummy
+;;BORDER: TO BE ADDED

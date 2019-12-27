@@ -1,3 +1,5 @@
+#define coast 4604985
+
 ;SMR Colors
 #define smrBase 5329233
 #define smrBlack 0

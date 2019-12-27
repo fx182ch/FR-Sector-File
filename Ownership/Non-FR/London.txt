@@ -1,19 +1,19 @@
 ;London Control Dover
 SECTOR:London Dover:0:66000
-OWNER:LCD:LCS:LC:EURI
-BORDER:Paris_LondonDover:LondonDover_Dummy
+OWNER:LCD:LCS:LSC:LC:EURI
+BORDER:LFFF_LOND:LON_D
 
 ;London Control South
 SECTOR:London South West:0:66000
-OWNER:LCS:LC:EURI
-BORDER:Brest_LondonSouth:LondonSouth_Dummy1
+OWNER:LCS:LSC:LC:EURI
+BORDER:LFFF_LONs:LON_S1
 
 ;London Control South
 SECTOR:London South East:0:66000
-OWNER:LCS:LC:EURI
-BORDER:Paris_LondonSouth:LondonSouth_Dummy2
+OWNER:LCS:LSC:LC:EURI
+BORDER:LFRR_LONS:LON_S2
 
 ;London Control West
 SECTOR:London West:0:66000
 OWNER:LCW:LC:EURI
-BORDER:Brest_LondonWest:LondonWest_Dummy
+BORDER:LFRR_LONW:LON_W
