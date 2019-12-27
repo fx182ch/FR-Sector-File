@@ -6,7 +6,7 @@
 #define smrStands 0
 #define smrStandText 13494510
 #define smrWater 5177344 
-#define smrHolding 8323072
+#define smrHolding 170
 #define smrBuildings 5987163
 #define smrApron 5987929
 #define avisoTaxiway 5987929

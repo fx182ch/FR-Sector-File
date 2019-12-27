@@ -1,0 +1,10 @@
+; Start Chambery - (LFLB) - Freetext
+N045.31.33.000:E005.53.07.000:Airspace Bases:8200'
+N045.34.04.000:E005.47.00.000:Airspace Bases:7200'
+N045.41.37.000:E005.48.00.000:Airspace Bases:6700'
+N045.43.40.000:E005.55.00.000:Airspace Bases:7800'
+N045.52.39.000:E006.06.43.000:Airspace Bases:8700'
+N045.60.00.000:E006.08.00.000:Airspace Bases:7700'
+N045.50.00.000:E005.40.40.000:Airspace Bases:6500'
+N045.52.54.800:E005.45.26.302:Airspace Bases:6800'
+; End Chambery - (LFLB) - Freetext
