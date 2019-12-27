@@ -1,0 +1,2 @@
+LFLS_TWR:Grenoble Tower:199.998:LSTM:S:LFLS:TWR:-:-::::
+LFLS_GND:Grenoble Ground:199.998:LSGM:S:LFLS:GND:-:-::::

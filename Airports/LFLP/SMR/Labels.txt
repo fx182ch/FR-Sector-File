@@ -1,0 +1,5 @@
+; Start Annecy - (LFLP) - Labels
+; Holding Points
+"A" N043.12.11.365 E006.28.30.379 smrStandText
+"B" N043.12.14.793 E006.28.39.326 smrStandText
+; End Annecy - (LFLP) - Labels

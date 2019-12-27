@@ -1,3 +1,1 @@
-Calvi Sainte Catherine
-N042.31.28.000 E008.47.35.000
-123.200
+LFKC 123.200 N042.31.28.000 E008.47.35.000 E ; Calvi Sainte Catherine

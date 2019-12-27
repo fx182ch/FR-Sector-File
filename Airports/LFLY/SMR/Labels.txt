@@ -1,0 +1,14 @@
+; Start Bron - (LFLY) - Labels
+"A1" N045.44.04.130 E004.56.23.157 smrStandText
+"A2" N045.43.47.658 E004.56.29.347 smrStandText
+"A3" N045.43.37.570 E004.56.33.930 smrStandText
+"A4" N045.43.08.878 E004.56.46.029 smrStandText
+"TN2" N045.44.01.399 E004.56.15.300 smrStandText
+"TN" N045.43.59.098 E004.56.10.868 smrStandText
+"T1" N045.43.55.590 E004.56.20.900 smrStandText
+"T2" N045.43.41.559 E004.56.28.060 smrStandText
+"T3" N045.43.22.738 E004.56.37.820 smrStandText
+"TA" N045.43.43.320 E004.56.23.247 smrStandText
+"TB" N045.43.36.810 E004.56.27.970 smrStandText
+"TC" N045.43.33.658 E004.56.28.760 smrStandText
+; End Bron - (LFLY) - Labels

@@ -1,4 +1,4 @@
-; Start Bastia - (LFKB) - Freetext
+; Start Bastia - (LFKB) - Labels
 ; Holding Points
 "G" N042.32.30.375 E009.29.13.767 smrStandText
 "M" N042.33.00.404 E009.29.02.085 smrStandText
@@ -36,4 +36,4 @@
 : Aprons
 "Commercial" N042.32.47.854 E009.28.53.421 smrStandText
 "Aviation Generale" N042.33.03.003 E009.28.43.296 smrStandText
-; End Bastia - (LFKB) - Freetext
+; End Bastia - (LFKB) - Labels

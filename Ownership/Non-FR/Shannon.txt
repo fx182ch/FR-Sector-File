@@ -1,4 +1,4 @@
 ; Shannon
-SECTOR:Shannon ACC:15500:66000
+SECTOR:Shannon ACC:0:66000
 OWNER:SC:EURI
 BORDER:Brest_Shannon:Shannon_Dummy

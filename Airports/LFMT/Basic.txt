@@ -1,3 +1,1 @@
-Montpellier Mediterranee
-N043.35.00.000 E003.57.41.000
-118.200 
+LFMT 118.200 N043.35.00.000 E003.57.41.000 E ; Montpellier Mediterranee

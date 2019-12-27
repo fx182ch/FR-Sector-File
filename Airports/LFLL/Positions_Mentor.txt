@@ -1,0 +1,5 @@
+LFLL_APP:Lyon Approach:199.998:LLAM:L:LFLL:APP:-:-::::
+LFLL_F_APP:Lyon Director:199.998:LLFM:L:LFLL:APP:-:-::::
+LFLL_TWR:Lyon Tower:199.998:LLTM:L:LFLL:TWR:-:-::::
+LFLL_GND:Lyon Ground:199.998:LLGM:L:LFLL:GND:-:-::::
+LFLL_DEL:Lyon Delivery:199.998:LLCM:L:LFLL:GND:-:-::::

@@ -1,0 +1,2 @@
+LFLB_APP:Chambery Approach:199.998:LBAM:B:LFLB:APP:-:-::::
+LFLB_TWR:Chambery Tower:199.998:LBTM:B:LFLB:TWR:-:-::::

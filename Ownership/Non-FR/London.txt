@@ -1,19 +1,19 @@
-; London Area Control Dover
-SECTOR:London Dover:13500:66000
+;London Control Dover
+SECTOR:London Dover:0:66000
 OWNER:LCD:LCS:LC:EURI
 BORDER:Paris_LondonDover:LondonDover_Dummy
 
-; London Area Control South Part 1
-SECTOR:London South 1:13500:66000
+;London Control South
+SECTOR:London South West:0:66000
 OWNER:LCS:LC:EURI
 BORDER:Brest_LondonSouth:LondonSouth_Dummy1
 
-; London Area Control South Part 2
-SECTOR:London South 2:13500:66000
+;London Control South
+SECTOR:London South East:0:66000
 OWNER:LCS:LC:EURI
 BORDER:Paris_LondonSouth:LondonSouth_Dummy2
 
-; London Area Control West
-SECTOR:London West:13500:66000
+;London Control West
+SECTOR:London West:0:66000
 OWNER:LCW:LC:EURI
 BORDER:Brest_LondonWest:LondonWest_Dummy
