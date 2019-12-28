@@ -1,0 +1,6 @@
+; LFLC Runway 08
+Extended Centrelines S999.00.00.000 E999.00.00.000 S999.00.00.000 E999.00.00.000
+
+
+; LFLC Runway 26
+Extended Centrelines S999.00.00.000 E999.00.00.000 S999.00.00.000 E999.00.00.000
