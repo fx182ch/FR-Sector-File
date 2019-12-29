@@ -11,6 +11,10 @@
 #define smrHolding 170
 #define smrBuildings 5987163
 #define smrApron 5987929
+#define smrBackgroundGreen 2829085
+#define smrGrey 5330521
+#define smrGrassLight 3689771
+#define smrBuildingsDark 1584743
 #define avisoTaxiway 5987929
 #define avisoApron 8355978
 #define avisoBArea 9671574
