@@ -1,8 +1,8 @@
-; Start Chambery - (LFLB) - Labels
+; Start Saint-Yan - (LFLN) - Labels
 "5" N045.38.25.100 E005.52.58.300 smrStandText
 "6" N045.38.26.900 E005.52.58.300 smrStandText
 "3" N045.38.22.500 E005.52.59.300 smrStandText
 "2" N045.38.23.500 E005.52.59.400 smrStandText
 "1" N045.38.20.500 E005.52.59.000 smrStandText
 "4" N045.38.19.700 E005.52.59.000 smrStandText
-; End Chambery - (LFLB) - Labels
+; End Saint-Yan - (LFLN) - Labels

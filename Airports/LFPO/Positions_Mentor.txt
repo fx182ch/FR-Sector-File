@@ -1,0 +1,5 @@
+LFPO_APP:Orly Approach:199.998:POAM:O:LFPO:APP:-:-::::
+LFPO_DEP:Orly Departure:199.998:PODM:O:LFPO:DEP:-:-::::
+LFPO_TWR:Orly Tower:199.998:POTM:O:LFPO:TWR:-:-::::
+LFPO_GND:Orly Ground:199.998:POGM:O:LFPO:GND:-:-::::
+LFPO_DEL:Orly Delivery:199.998:POCM:O:LFPO:DEL:-:-::::

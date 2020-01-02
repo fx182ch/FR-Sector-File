@@ -1,4 +1,4 @@
-; Start Chambery - (LFLB) - Regions
+; Start Saint-Yan - (LFLN) - Regions
 ;Background
 REGIONNAME Chambery
 smrBackgroundGrey N045.34.06.946 E005.48.12.098
@@ -298,4 +298,4 @@ N045.37.57.656 E005.53.03.921
 N045.37.57.643 E005.53.03.357
 N045.37.58.113 E005.53.03.278
 N045.37.58.103 E005.53.02.673
-; End Chambery - (LFLB) - Regions
+; End Saint-Yan - (LFLN) - Regions
