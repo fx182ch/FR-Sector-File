@@ -1,0 +1,6 @@
+; Start Beauvais - (LFOB) - Freetext
+N049.36.55.464:E001.37.22.684:Airspace Bases:2400'
+N049.26.29.039:E001.41.45.174:Airspace Bases:2400'
+N049.25.15.773:E002.23.32.793:Airspace Bases:2400'
+N049.36.29.821:E002.04.16.719:Airspace Bases:2000'
+; End Beauvais - (LFOB) - Freetext

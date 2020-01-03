@@ -1,0 +1,2 @@
+LFOB_APP:Beauvais Approach:199.998:OBAM:B:LFOB:APP:-:-::::
+LFOB_TWR:Beauvais Tower:199.998:OBTM:B:LFOB:TWR:-:-::::
