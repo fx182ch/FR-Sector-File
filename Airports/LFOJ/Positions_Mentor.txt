@@ -1,0 +1,2 @@
+LFOJ_APP:Bricy Approach:199.998:OJAM:J:LFOJ:APP:-:-::::
+LFOJ_TWR:Bricy Tower:199.998:OJTM:J:LFOJ:TWR:-:-::::

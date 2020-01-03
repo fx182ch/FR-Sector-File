@@ -1,0 +1,6 @@
+; Start Orleans - (LFOJ) - Freetext
+N047.48.02.612:E001.33.04.954:Airspace Bases:5000'
+N047.52.15.380:E001.49.27.896:Airspace Bases:2100'
+N047.59.27.650:E001.57.22.612:Airspace Bases:2300'
+N048.06.03.288:E002.00.38.084:Airspace Bases:3500'
+; End Orleans - (LFOJ) - Freetext
