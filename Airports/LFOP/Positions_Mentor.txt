@@ -1,0 +1,2 @@
+LFOP_APP:Rouen Approach:199.998:OPAM:P:LFOP:APP:-:-::::
+LFOP_TWR:Rouen Tower:199.998:OPTM:P:LFOP:TWR:-:-::::

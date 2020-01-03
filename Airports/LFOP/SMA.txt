@@ -1,0 +1,6 @@
+; Start Roeun - (LFOP) - Freetext
+N049.18.20.310:E001.00.12.576:Airspace Bases:2200'
+N049.30.56.416:E001.18.09.344:Airspace Bases:2000'
+N049.36.01.203:E001.34.18.882:Airspace Bases:2200'
+N049.43.26.662:E001.29.50.807:Airspace Bases:2400'
+; Start Roeun - (LFOP) - Freetext
