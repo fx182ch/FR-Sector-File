@@ -1,0 +1,6 @@
+; Start Pontoise - (LFPT) - Freetext
+N049.16.37.717:E002.06.45.202:Airspace Bases:2500'
+N049.05.50.044:E001.56.15.225:Airspace Bases:3000'
+N049.13.56.531:E001.46.25.460:Airspace Bases:3000'
+N049.11.24.138:E002.13.18.379:Airspace Bases:2000'
+; End Pontoise - (LFPT) - Freetext

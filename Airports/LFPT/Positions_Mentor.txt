@@ -1,0 +1,2 @@
+LFPT_APP:Pontoise Approach:199.998:PTAM:T:LFPT:APP:-:-::::
+LFPT_TWR:Pontoise Tower:199.998:PTTM:T:LFPT:TWR:-:-::::
