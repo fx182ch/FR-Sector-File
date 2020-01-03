@@ -1,0 +1,7 @@
+; Start Orly - (LFPO) - Freetext
+N048.27.19.952:E002.28.18.223:Airspace Bases:3300'
+N048.32.56.976:E002.26.30.993:Airspace Bases:3000'
+N048.38.36.931:E002.25.23.974:Airspace Bases:2100'
+N048.47.59.615:E002.21.36.111:Airspace Bases:2000'
+N048.52.05.789:E002.23.09.937:Airspace Bases:3000'
+; Start Orly - (LFPO) - Freetext

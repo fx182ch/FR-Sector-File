@@ -1,0 +1,7 @@
+; Start Roissy - (LFPG) - Freetext
+N048.53.58.546:E002.34.24.481:Airspace Bases:2500'
+N049.03.30.022:E002.32.28.315:Airspace Bases:1500'
+N049.09.21.699:E002.32.19.379:Airspace Bases:2000'
+N049.11.36.509:E002.30.05.341:Airspace Bases:2500'
+N049.14.23.556:E002.27.02.157:Airspace Bases:3000'
+; Start Roissy - (LFPG) - Freetext
