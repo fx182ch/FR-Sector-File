@@ -1,0 +1,2 @@
+LFOE_APP:Evreux Approach:199.998:OEAM:E:LFOE:APP:-:-::::
+LFOE_TWR:Evreux Tower:199.998:OETM:E:LFOE:TWR:-:-::::
