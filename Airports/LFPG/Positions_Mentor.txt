@@ -1,0 +1,12 @@
+LFPG_F_APP:De Gaulle Director:199.998:PGFM:G:LFPG:APP:-:-::::
+LFPG_N_APP:De Gaulle Approach:199.998:PGAM:G:LFPG:APP:-:-::::
+LFPG_N_DEP:De Gaulle Departure:199.998:PGDM:G:LFPG:APP:-:-::::
+LFPG_S_APP:De Gaulle Approach:199.998:PGASM:G:LFPG:APP:-:-::::
+LFPG_S_DEP:De Gaulle Departure:199.998:PGDSM:G:LFPG:APP:-:-::::
+LFPG_N_TWR:De Gaulle Tower:199.998:PGTM:G:LFPG:TWR:-:-::::
+LFPG_S_TWR:De Gaulle Tower:199.998:PGTSM:G:LFPG:TWR:-:-::::
+LFPG_F_GND:De Gaulle Traffic:199.998:PG1M:F:LFPG:GND-::::
+LFPG_N_GND:De Gaulle Ground:199.998:PGGM:G:LFPG:GND:-:-::::
+LFPG_S_GND:De Gaulle Ground:199.998:PGGSM:G:LFPG:GND:-:-::::
+LFPG_N_DEL:De Gaulle Delivery:199.998:PGCM:G:LFPG:GND:-:-::::
+LFPG_S_DEL:De Gaulle Delivery:199.998:PGCSM:G:LFPG:GND:-:-::::
