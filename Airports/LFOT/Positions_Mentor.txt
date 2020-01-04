@@ -1,0 +1,2 @@
+LFOT_APP:Tours Approach:199.998:OTAM:T:LFOT:APP:-:-::::
+LFOT_TWR:Tours Tower:199.998:OTTM:T:LFOT:TWR:-:-::::

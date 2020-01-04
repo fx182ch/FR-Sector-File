@@ -1,0 +1,5 @@
+; Start Tours - (LFOT) - Freetext
+N047.27.44.292:E001.02.47.680:Airspace Bases:2200'
+N047.45.49.547:E000.24.58.815:Airspace Bases:2800'
+N047.25.58.972:E000.09.51.270:Airspace Bases:1900;
+; Start Tours - (LFOT) - Freetext
