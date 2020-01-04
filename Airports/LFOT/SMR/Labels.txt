@@ -1,0 +1,15 @@
+; Start Tours - (LFOT) - Labels
+; Holding Points
+"D" N047.25.20.571 E000.43.19.238 smrStandText
+"C" N047.25.41.524 E000.43.29.550 smrStandText
+"B" N047.26.10.066 E000.43.41.120 smrStandText
+"A" N047.26.35.308 E000.43.50.804 smrStandText
+"A" N047.26.21.614 E000.43.38.354 smrStandText
+"A" N047.25.58.187 E000.43.29.550 smrStandText
+"A" N047.25.31.625 E000.43.18.609 smrStandText
+; Aprons
+"Aviation Civile" N047.25.33.110 E000.43.06.033 smrStandText
+"Securite Civile" N047.25.58.269 E000.42.52.074 smrStandText
+"Securite Civile" N047.26.17.985 E000.43.21.628 smrStandText
+"Helipad" N047.25.46.556 E000.43.23.388 smrStandText
+; End Tours - (LFOT) - Labels
