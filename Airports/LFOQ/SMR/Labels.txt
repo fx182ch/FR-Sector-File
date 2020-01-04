@@ -1,0 +1,12 @@
+; Start Blois - (LFOQ) - Labels
+; Taxiways
+"C" N047.40.55.466 E001.12.06.968 smrStandText
+"B" N047.40.49.292 E001.12.22.568 smrStandText
+"A" N047.40.43.008 E001.12.38.692 smrStandText
+"N" N047.40.49.926 E001.12.30.617 smrStandText
+"N" N047.40.54.611 E001.12.19.151 smrStandText
+"S" N047.40.34.157 E001.12.36.208 smrStandText
+"S" N047.40.21.146 E001.12.28.322 smrStandText
+; Aprons
+"Aviation Civile" N047.40.55.173 E001.12.29.330 smrStandText
+; End Blois - (LFOQ) - Labels
