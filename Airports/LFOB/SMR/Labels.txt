@@ -1,0 +1,35 @@
+; Start Beauvais - (LFOB) - Labels
+; Holding Points
+"X" N049.27.28.417 E002.06.26.059 smrStandText
+"X" N049.27.23.152 E002.06.41.519 smrStandText
+"X" N049.27.14.376 E002.07.01.538 smrStandText
+"X" N049.27.05.536 E002.07.21.953 smrStandText
+"X" N049.27.02.091 E002.07.30.079 smrStandText
+"R1" N049.27.02.221 E002.07.25.719 smrStandText
+"R" N049.26.57.020 E002.07.49.107 smrStandText
+"R2" N049.26.49.415 E002.07.52.873 smrStandText
+"S" N049.27.14.181 E002.06.33.393 smrStandText
+"W" N049.27.25.557 E002.06.31.213 smrStandText
+"N" N049.27.21.462 E002.06.56.781 smrStandText
+"H" N049.27.30.302 E002.07.11.250 smrStandText
+"P" N049.27.38.688 E002.07.10.259 smrStandText
+"A" N049.27.43.758 E002.07.21.160 smrStandText
+; Stands
+"1" N049.27.30.692 E002.06.39.141 smrStandText
+"2" N049.27.30.172 E002.06.40.726 smrStandText
+"3" N049.27.29.522 E002.06.42.411 smrStandText
+"4" N049.27.28.937 E002.06.44.096 smrStandText
+"5" N049.27.28.482 E002.06.45.186 smrStandText
+"6" N049.27.29.392 E002.06.46.375 smrStandText
+"7" N049.27.30.367 E002.06.47.664 smrStandText
+"8" N049.27.31.537 E002.06.49.348 smrStandText
+"9" N049.27.32.773 E002.06.51.132 smrStandText
+"10" N049.27.33.943 E002.06.52.718 smrStandText
+"11" N049.27.35.113 E002.06.54.303 smrStandText
+"12" N049.27.36.023 E002.06.55.691 smrStandText
+"Term1" N049.27.34.983 E002.06.37.555 smrStandText
+"Term2" N049.27.38.558 E002.06.52.718 smrStandText
+"Parking Sud" N049.27.18.732 E002.06.17.735 smrStandText
+"Parking Nord" N049.27.46.085 E002.07.20.704 smrStandText
+"Hangars ACB" N049.27.45.981 E002.07.07.623 smrStandText
+; End Beauvais - (LFOB) - Labels
