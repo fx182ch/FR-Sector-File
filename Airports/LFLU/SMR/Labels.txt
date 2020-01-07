@@ -1,0 +1,6 @@
+; Start Valance - (LFLU) - Labels
+"S" N044.54.45.374 E004.58.00.899 smrStandText
+"P" N044.54.56.513 E004.58.03.301 smrStandText
+"M" N044.55.02.435 E004.58.04.461 smrStandText
+"N" N044.55.08.304 E004.58.05.621 smrStandText
+; End Valance - (LFLU) - Labels
