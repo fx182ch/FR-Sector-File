@@ -1,8 +1,13 @@
 ; Start Chambery - (LFLB) - Labels
-"5" N045.38.25.100 E005.52.58.300 smrStandText
-"6" N045.38.26.900 E005.52.58.300 smrStandText
-"3" N045.38.22.500 E005.52.59.300 smrStandText
-"2" N045.38.23.500 E005.52.59.400 smrStandText
-"1" N045.38.20.500 E005.52.59.000 smrStandText
-"4" N045.38.19.700 E005.52.59.000 smrStandText
+"N" N045.38.46.823 E005.52.49.538 smrStandText
+"N" N045.38.33.364 E005.52.52.103 smrStandText
+"C" N045.38.27.140 E005.52.54.540 smrStandText
+"N1" N045.38.21.252 E005.52.55.565 smrStandText
+"S" N045.38.01.990 E005.52.56.720 smrStandText
+"S" N045.37.54.335 E005.52.54.027 smrStandText
+"C" N045.38.26.309 E005.52.50.117 smrStandText
+"X" N045.38.23.983 E005.52.53.729 smrStandText
+"X" N045.38.20.969 E005.52.54.123 smrStandText
+"X" N045.38.18.126 E005.52.54.320 smrStandText
+"X" N045.38.17.050 E005.52.55.239 smrStandText
 ; End Chambery - (LFLB) - Labels
