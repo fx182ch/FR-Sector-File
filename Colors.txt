@@ -10,6 +10,8 @@
 #define smrWater 5177344 
 #define smrHolding 170
 #define smrHoldingYellow 65535
+#define smrHoldingOrange 28108
+#define smrTaxiwayClosedRed 255
 #define smrBuildings 5987163
 #define smrApron 5987929
 #define smrGrey 5330521
